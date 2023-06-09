@@ -1,10 +1,6 @@
 /*
 This is Oleksii Ishchneko code
 Part 1 - 1.1 (Recursion sum) and 1.2 (Recursion x^n)
-LATE:
-The reason why my project was late - I was experimenting with my code, so for submission
-I created a new project to make it look cleaner. I pushed an empty project to GitHub and then
-simply forgot to push it one more time when I've finished, sorry!
  */
 
 package Part_1;
